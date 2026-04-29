@@ -47,7 +47,9 @@ https://sunnywu999.github.io
 ## About Me
 Hi guys! This is a team of three. 
 Sunny Wu: I am Sunny! I am interested in entrepreneurship, technology, and building products that combine strategy, design, and user experience. This project reflects my interest in game design and decision-making. 
+
 Jerry Ding: I'm Jerry Ding. I am a Babson Student. I like sports and poker. Thus, I am really happy that we constructed this project related to Probability Theory.
+
 Shreya Desai: Hi my name is Shreya, I am a Babson student and I like to play cards and hangout with my dog. I took this class because I wanted to learn how to work with python and build new things.
 
 ## Attribution
