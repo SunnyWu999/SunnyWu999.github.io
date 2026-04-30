@@ -44,6 +44,9 @@ https://github.com/olincollege/softdes-finalproject-teamSD
 Live site:  
 https://sunnywu999.github.io  
 
+## Video
+https://youtu.be/Q0bUBBVmBx8
+
 ## About Me
 Hi guys! This is a team of three. 
 Sunny Wu: I am Sunny! I am interested in entrepreneurship, technology, and building products that combine strategy, design, and user experience. This project reflects my interest in game design and decision-making. 
